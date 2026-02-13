@@ -1,2 +1,1 @@
-project file
-team lead: Muchinga Robert
+Project Team File
